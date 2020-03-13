@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2087e835-f25f-4492-8a71-1f8535aa103a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TASACLOUDSERVICES.CO" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1TYDewqZs0pXzVwSdKhJ9LzaVt5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\TASACLOUDSERVICES.CO\application\views\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\TASACLOUDSERVICES.CO\application\controllers" />
+      <recent name="D:\xampp\htdocs\TASACLOUDSERVICES.COM\application\views\admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TASACLOUDSERVICES.COM" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.TASACLOUDSERVICES.COM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2087e835-f25f-4492-8a71-1f8535aa103a" name="Default Changelist" comment="" />
+      <created>1573628234402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573628234402</updated>
+      <workItem from="1573628241560" duration="884000" />
+      <workItem from="1573657029498" duration="1390000" />
+      <workItem from="1573658491164" duration="2241000" />
+      <workItem from="1573723511939" duration="2423000" />
+      <workItem from="1573741487469" duration="254000" />
+      <workItem from="1573742982308" duration="5304000" />
+      <workItem from="1573758429586" duration="6643000" />
+      <workItem from="1573799101907" duration="5432000" />
+      <workItem from="1573844440875" duration="8473000" />
+      <workItem from="1573975958898" duration="4763000" />
+      <workItem from="1573980963831" duration="10836000" />
+      <workItem from="1574096305188" duration="1947000" />
+      <workItem from="1574165845625" duration="4685000" />
+      <workItem from="1574247350359" duration="897000" />
+      <workItem from="1574250992917" duration="182000" />
+      <workItem from="1574270142046" duration="742000" />
+      <workItem from="1575989233024" duration="271000" />
+      <workItem from="1576003961522" duration="1024000" />
+      <workItem from="1576009133245" duration="1094000" />
+      <workItem from="1576039284212" duration="597000" />
+      <workItem from="1576403264814" duration="7586000" />
+      <workItem from="1576519049758" duration="599000" />
+      <workItem from="1576565646396" duration="4525000" />
+      <workItem from="1576599233130" duration="2515000" />
+      <workItem from="1576691354809" duration="8335000" />
+      <workItem from="1576742378928" duration="391000" />
+      <workItem from="1576781034384" duration="1627000" />
+      <workItem from="1576855264361" duration="4854000" />
+      <workItem from="1576914771498" duration="349000" />
+      <workItem from="1576943440292" duration="8481000" />
+      <workItem from="1580928162948" duration="2222000" />
+      <workItem from="1580973339080" duration="7000" />
+      <workItem from="1583420078765" duration="2426000" />
+      <workItem from="1583647980723" duration="1344000" />
+      <workItem from="1583651174716" duration="2296000" />
+      <workItem from="1583733150576" duration="1394000" />
+      <workItem from="1583734652441" duration="3701000" />
+      <workItem from="1583761187767" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Deployment" timestamp="1583421139807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1583421139807" />
+    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583734533276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583734533276" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1583652951388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583652951388" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583761309363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583761309363" />
+    <state x="494" y="95" key="ftp.server.browser" timestamp="1583421138096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="95" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1583421138096" />
+    <state x="553" y="258" key="publish.login" timestamp="1583761372283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="258" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1583761372283" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/views/admin/homepageDiv1.php</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TASACLOUDSERVICES_COM@TASACLOUDSERVICES_COM.xml" NAME="TASACLOUDSERVICES.COM Coverage Results" MODIFIED="1573628490934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

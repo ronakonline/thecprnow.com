@@ -1,0 +1,10 @@
+$this->output->clear_all_cache();
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^folder1.*$ http://example.com/folder2/ [R=301,L]
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>
